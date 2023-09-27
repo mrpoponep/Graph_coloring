@@ -1,0 +1,3 @@
+Dataset\gc_4_1.txt Dataset\gc_4_1color.txt 2 Welsh_Powell_Algorithm
+Dataset\gc_250_1.txt Dataset\gc_250_1color.txt 10 DSatur_Algorithm
+Dataset\gc_500_9.txt Dataset\gc_500_9color.txt 157 Independent_set1
